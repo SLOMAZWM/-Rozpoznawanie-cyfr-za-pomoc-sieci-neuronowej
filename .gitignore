@@ -1,0 +1,23 @@
+# Wirtualne środowiska
+venv/
+.mnist_env/
+.venv/
+
+# Pliki wygenerowane przez edytory
+.vscode/
+.idea/
+
+# Cache Pythona
+__pycache__/
+*.pyc
+*.pyo
+
+# Logi
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Inne katalogi, które nie są potrzebne w repozytorium
+*.sqlite3
+*.h5
